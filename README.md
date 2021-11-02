@@ -1,4 +1,6 @@
 # Awesome-Python-Scripts
+- [class 1](www.diyo.ai)
+- [class 2](www.naamii.org)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
