@@ -37,7 +37,7 @@ A curated collection of awesome **Python** scripts from basic to advance with au
 ## ⚡ Contributors
 - All Contributors can be found in the [contributor](https://github.com/ankitdobhal/Awesome-Python-Scripts/graphs/contributors) section.
 
-1. asdada
+1. [asdada](https://diyo.ai/)
 2. sadasd
 ## License
 This project follows GNU [License](LICENSE)
